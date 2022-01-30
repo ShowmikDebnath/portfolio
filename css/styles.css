@@ -619,8 +619,9 @@ Showmik
 }
 
 .askill{
-    /*background: rgba(255,0,0,0.9);*/
     background: rgba(51,51,255,0.8);
+    /*background: rgba(255,0,0,0.9);*/
+    
 }
 
 .askill.ash{
